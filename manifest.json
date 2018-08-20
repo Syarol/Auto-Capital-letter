@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Auto Capital letter",
+  "version": "1.0",
+
+  "description": "Automatically changes the first letter of a word in a sentence to upper register",
+  
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["auto-first-capital.js"]
+    }
+  ],
+
+  "author": "Oleh Yaroshchuk"
+}
