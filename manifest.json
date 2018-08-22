@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Auto Capital letter",
-  "version": "1.0",
+  "version": "1.0.1",
 
   "description": "Automatically changes the first letter of a word in a sentence to upper register",
   
